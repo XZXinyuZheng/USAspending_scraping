@@ -1,0 +1,5 @@
+# ignore all data
+
+*.csv
+*.xlsx
+.Rproj.user
